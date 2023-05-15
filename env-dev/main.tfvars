@@ -13,5 +13,7 @@ parameters = [
 { name = "dev.cart.redis_host", value = "redis-dev.sujianilsrisriyaan.online" },
 { name = "dev.cart.catalogue_host", value = "catalogue-dev.sujianilsrisriyaan.online" },
 { name = "dev.cart.catalogue_port", value = "8080" },
+{ name = "dev.shipping.cart_endpoint", value = "cart-dev.sujianilsrisriyaan.online:8080" }
+{ name = "dev.shipping.db_host", value = "mysql-dev.sujianilsrisriyaan.online" }
 
 ]
