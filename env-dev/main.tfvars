@@ -24,3 +24,5 @@ parameters = [
 { name = "dev.payment.amqp_host", value = "rabbitmq-dev.sujianilsrisriyaan.online" },
 { name = "dev.payment.amqp_user", value = "roboshop" },
 { name = "dev.payment.amqp.pass", value = "roboshop123" }
+
+]
